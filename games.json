@@ -1,0 +1,5002 @@
+[
+  {
+    "id": "chicken-strike",
+    "thumbnail": "https://theQuizQuest.github.io/images/300.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "pill-soccer",
+    "thumbnail": "https://theQuizQuest.github.io/images/301.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "seat-jam-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/302.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "find-the-ghost-cat",
+    "thumbnail": "https://theQuizQuest.github.io/images/303.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "just-ludo",
+    "thumbnail": "https://theQuizQuest.github.io/images/304.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "animal-link",
+    "thumbnail": "https://theQuizQuest.github.io/images/305.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "fight-for-the-tree",
+    "thumbnail": "https://theQuizQuest.github.io/images/306.webp",
+    "genre": "Battle, Simulation"
+  },
+  {
+    "id": "colored-bricks",
+    "thumbnail": "https://theQuizQuest.github.io/images/307.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "grid-blast",
+    "thumbnail": "https://theQuizQuest.github.io/images/308.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pet-merge",
+    "thumbnail": "https://theQuizQuest.github.io/images/309.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "candy-crunch-sugar-escape",
+    "thumbnail": "https://theQuizQuest.github.io/images/310.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mermaids-spot-the-differences",
+    "thumbnail": "https://theQuizQuest.github.io/images/311.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "run-n-shoot",
+    "thumbnail": "https://theQuizQuest.github.io/images/312.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "island-expander",
+    "thumbnail": "https://theQuizQuest.github.io/images/313.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mind-games-for-2-3-4-player",
+    "thumbnail": "https://theQuizQuest.github.io/images/314.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "quackventure",
+    "thumbnail": "https://theQuizQuest.github.io/images/315.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "shadow-stickman-fight",
+    "thumbnail": "https://theQuizQuest.github.io/images/316.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "poptropica",
+    "thumbnail": "https://theQuizQuest.github.io/images/317.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "kiki-world-kawaii-doll-decor",
+    "thumbnail": "https://theQuizQuest.github.io/images/318.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "kings-and-queens-match-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/319.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "gunfu-stickman-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/320.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "besties-chinese-new-year-celebration",
+    "thumbnail": "https://theQuizQuest.github.io/images/321.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "from-nerd-to-school-popular",
+    "thumbnail": "https://theQuizQuest.github.io/images/322.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "tank-battleio",
+    "thumbnail": "https://theQuizQuest.github.io/images/323.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "screw-color-sorting-master",
+    "thumbnail": "https://theQuizQuest.github.io/images/324.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "two-stunt-supercars",
+    "thumbnail": "https://theQuizQuest.github.io/images/325.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cute-folding-paper",
+    "thumbnail": "https://theQuizQuest.github.io/images/326.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cyberpunk-corporation",
+    "thumbnail": "https://theQuizQuest.github.io/images/327.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "cuddle-monster-fusion",
+    "thumbnail": "https://theQuizQuest.github.io/images/328.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "slippery-drift-racing",
+    "thumbnail": "https://theQuizQuest.github.io/images/329.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "crazy-motorcycle",
+    "thumbnail": "https://theQuizQuest.github.io/images/330.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "champions-fc",
+    "thumbnail": "https://theQuizQuest.github.io/images/331.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "real-car-parking-and-stunt",
+    "thumbnail": "https://theQuizQuest.github.io/images/332.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "dino-idle-park",
+    "thumbnail": "https://theQuizQuest.github.io/images/333.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "squid-game-memory-card-match",
+    "thumbnail": "https://theQuizQuest.github.io/images/334.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "relaxing-cubes-and-campfire",
+    "thumbnail": "https://theQuizQuest.github.io/images/335.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "school-escape-obbie-run",
+    "thumbnail": "https://theQuizQuest.github.io/images/336.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "mobile-phone-case-diy",
+    "thumbnail": "https://theQuizQuest.github.io/images/337.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "slinger-block",
+    "thumbnail": "https://theQuizQuest.github.io/images/338.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mustang-city-driver",
+    "thumbnail": "https://theQuizQuest.github.io/images/339.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "halloween-stickman",
+    "thumbnail": "https://theQuizQuest.github.io/images/340.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "baling-bum",
+    "thumbnail": "https://theQuizQuest.github.io/images/341.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pick-brainrot-3d-battle",
+    "thumbnail": "https://theQuizQuest.github.io/images/342.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ragdoll-bounce",
+    "thumbnail": "https://theQuizQuest.github.io/images/343.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "american-block-sniper-online",
+    "thumbnail": "https://theQuizQuest.github.io/images/344.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "human-evolution-run",
+    "thumbnail": "https://theQuizQuest.github.io/images/345.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "diamondz",
+    "thumbnail": "https://theQuizQuest.github.io/images/346.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "magnet-truck",
+    "thumbnail": "https://theQuizQuest.github.io/images/347.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "mojo-emoji",
+    "thumbnail": "https://theQuizQuest.github.io/images/348.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mission-santa-deliver-the-gifts",
+    "thumbnail": "https://theQuizQuest.github.io/images/349.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "farmer-rush-idle-farm-game",
+    "thumbnail": "https://theQuizQuest.github.io/images/350.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "motorcycle-racer-road-mayhem",
+    "thumbnail": "https://theQuizQuest.github.io/images/351.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "tower-defense-dragon-merge",
+    "thumbnail": "https://theQuizQuest.github.io/images/352.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "beauty-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/353.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bunnyhop-and-surf-maps",
+    "thumbnail": "https://theQuizQuest.github.io/images/354.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "coin-stack-up",
+    "thumbnail": "https://theQuizQuest.github.io/images/355.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sort-balls-cones",
+    "thumbnail": "https://theQuizQuest.github.io/images/356.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "word-scramble-family-tales",
+    "thumbnail": "https://theQuizQuest.github.io/images/357.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "build-and-run",
+    "thumbnail": "https://theQuizQuest.github.io/images/358.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "2-3-4-player-games",
+    "thumbnail": "https://theQuizQuest.github.io/images/359.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "dream-wedding-planner",
+    "thumbnail": "https://theQuizQuest.github.io/images/360.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "frog-knight",
+    "thumbnail": "https://theQuizQuest.github.io/images/361.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "noobhood-halloweencraft",
+    "thumbnail": "https://theQuizQuest.github.io/images/362.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "batzo-runner",
+    "thumbnail": "https://theQuizQuest.github.io/images/363.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "ultimate-tower-defense",
+    "thumbnail": "https://theQuizQuest.github.io/images/364.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "circle-run-endless",
+    "thumbnail": "https://theQuizQuest.github.io/images/365.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "car-collision-master",
+    "thumbnail": "https://theQuizQuest.github.io/images/366.webp",
+    "genre": "Racing & Driving, Battle"
+  },
+  {
+    "id": "doge-rush-draw-home-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/367.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "mycothreememo",
+    "thumbnail": "https://theQuizQuest.github.io/images/368.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sheep-sort-puzzle-sort-color",
+    "thumbnail": "https://theQuizQuest.github.io/images/369.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "spacebar-clicker",
+    "thumbnail": "https://theQuizQuest.github.io/images/370.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "colossatron",
+    "thumbnail": "https://theQuizQuest.github.io/images/371.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "celebrities-get-ready-for-christmas",
+    "thumbnail": "https://theQuizQuest.github.io/images/372.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "shape-transform-race",
+    "thumbnail": "https://theQuizQuest.github.io/images/373.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "car-jam-traffic-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/374.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "magic-kingdom-hex-match",
+    "thumbnail": "https://theQuizQuest.github.io/images/375.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bubble-shooter-hawaii",
+    "thumbnail": "https://theQuizQuest.github.io/images/376.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "cubatoria-merge-2048",
+    "thumbnail": "https://theQuizQuest.github.io/images/377.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "block-puzzle-frozen-jewel",
+    "thumbnail": "https://theQuizQuest.github.io/images/378.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ragdoll-mega-dunk",
+    "thumbnail": "https://theQuizQuest.github.io/images/379.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "fight-to-the-end",
+    "thumbnail": "https://theQuizQuest.github.io/images/380.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "escape-room-mystery-key",
+    "thumbnail": "https://theQuizQuest.github.io/images/381.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "donnes-spinning-world",
+    "thumbnail": "https://theQuizQuest.github.io/images/382.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "enchanted-mahjong-saga",
+    "thumbnail": "https://theQuizQuest.github.io/images/383.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "digital-aqua",
+    "thumbnail": "https://theQuizQuest.github.io/images/384.webp",
+    "genre": "Art, Care"
+  },
+  {
+    "id": "pop-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/385.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "fashion-stylist-salon-makeover",
+    "thumbnail": "https://theQuizQuest.github.io/images/386.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "single-stroke-energy-line-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/387.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dino-survival-3d-simulator",
+    "thumbnail": "https://theQuizQuest.github.io/images/388.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "the-counterfeit-bank",
+    "thumbnail": "https://theQuizQuest.github.io/images/389.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "school-teacher-simulator",
+    "thumbnail": "https://theQuizQuest.github.io/images/390.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "pixel-pop-thr",
+    "thumbnail": "https://theQuizQuest.github.io/images/391.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bank-robbery-3",
+    "thumbnail": "https://theQuizQuest.github.io/images/392.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "table-tower-online",
+    "thumbnail": "https://theQuizQuest.github.io/images/393.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pet-runner",
+    "thumbnail": "https://theQuizQuest.github.io/images/394.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "knife-madness",
+    "thumbnail": "https://theQuizQuest.github.io/images/395.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bodycamera-shooter",
+    "thumbnail": "https://theQuizQuest.github.io/images/396.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "army-base-of-america",
+    "thumbnail": "https://theQuizQuest.github.io/images/397.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "monster-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/398.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-flips-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/399.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grab-them-all",
+    "thumbnail": "https://theQuizQuest.github.io/images/400.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bathroom-escape",
+    "thumbnail": "https://theQuizQuest.github.io/images/401.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tower-swap",
+    "thumbnail": "https://theQuizQuest.github.io/images/402.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mystical-blade-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/403.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "maze-escape-craft-man",
+    "thumbnail": "https://theQuizQuest.github.io/images/404.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ship-ramp-jumping",
+    "thumbnail": "https://theQuizQuest.github.io/images/405.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hidden-object-emilys-case",
+    "thumbnail": "https://theQuizQuest.github.io/images/406.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "save-little-red-hood",
+    "thumbnail": "https://theQuizQuest.github.io/images/407.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "marble-run",
+    "thumbnail": "https://theQuizQuest.github.io/images/408.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dress-up---games-for-girls",
+    "thumbnail": "https://theQuizQuest.github.io/images/409.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shopaholic-black-friday",
+    "thumbnail": "https://theQuizQuest.github.io/images/410.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sokoban-pr",
+    "thumbnail": "https://theQuizQuest.github.io/images/411.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "club-tycoon-idle-clicker",
+    "thumbnail": "https://theQuizQuest.github.io/images/412.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "basket-shot",
+    "thumbnail": "https://theQuizQuest.github.io/images/413.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "solitaire-home-story",
+    "thumbnail": "https://theQuizQuest.github.io/images/414.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "death-note-type",
+    "thumbnail": "https://theQuizQuest.github.io/images/415.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sportcars-crash",
+    "thumbnail": "https://theQuizQuest.github.io/images/416.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cubes-2048-io",
+    "thumbnail": "https://theQuizQuest.github.io/images/417.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "is-it-right",
+    "thumbnail": "https://theQuizQuest.github.io/images/418.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bridge-race",
+    "thumbnail": "https://theQuizQuest.github.io/images/419.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-pro-4",
+    "thumbnail": "https://theQuizQuest.github.io/images/420.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "hexa-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/421.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "rocketgoal-io",
+    "thumbnail": "https://theQuizQuest.github.io/images/422.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cupid-unchained",
+    "thumbnail": "https://theQuizQuest.github.io/images/423.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mahjong-sweet-connection",
+    "thumbnail": "https://theQuizQuest.github.io/images/424.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pixel-hero-warfare",
+    "thumbnail": "https://theQuizQuest.github.io/images/425.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "papas-cheeseria",
+    "thumbnail": "https://theQuizQuest.github.io/images/426.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wild-west-match",
+    "thumbnail": "https://theQuizQuest.github.io/images/427.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "crazy-pixel-apocalypse-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/428.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "worldguessr",
+    "thumbnail": "https://theQuizQuest.github.io/images/429.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "save-memerots-acid-lava-lake",
+    "thumbnail": "https://theQuizQuest.github.io/images/430.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "aventador-vice-crime-city",
+    "thumbnail": "https://theQuizQuest.github.io/images/431.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "xtreme-moto-mayhem",
+    "thumbnail": "https://theQuizQuest.github.io/images/432.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "little-cabin-in-the-woods-a-forgotten-hill-tale",
+    "thumbnail": "https://theQuizQuest.github.io/images/433.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "linklink",
+    "thumbnail": "https://theQuizQuest.github.io/images/434.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-stack",
+    "thumbnail": "https://theQuizQuest.github.io/images/435.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "spirit-wars-2d",
+    "thumbnail": "https://theQuizQuest.github.io/images/436.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "prism-match-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/437.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "seven-days-in-purgatory",
+    "thumbnail": "https://theQuizQuest.github.io/images/438.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cornfield",
+    "thumbnail": "https://theQuizQuest.github.io/images/439.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "100-doors",
+    "thumbnail": "https://theQuizQuest.github.io/images/440.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "diy-phone-case-shop",
+    "thumbnail": "https://theQuizQuest.github.io/images/441.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "gulper-io",
+    "thumbnail": "https://theQuizQuest.github.io/images/442.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "head-runner-dash",
+    "thumbnail": "https://theQuizQuest.github.io/images/443.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "endless-siege-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/444.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hotgear-qim",
+    "thumbnail": "https://theQuizQuest.github.io/images/445.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-shift",
+    "thumbnail": "https://theQuizQuest.github.io/images/446.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "drawing-squares",
+    "thumbnail": "https://theQuizQuest.github.io/images/447.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "mister-mine",
+    "thumbnail": "https://theQuizQuest.github.io/images/448.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "manyunya-saving-the-princess",
+    "thumbnail": "https://theQuizQuest.github.io/images/449.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "mahjong-connect-tiles",
+    "thumbnail": "https://theQuizQuest.github.io/images/450.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "sprunki-clicker-merge-phase-3",
+    "thumbnail": "https://theQuizQuest.github.io/images/451.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "i-am-prankster-taxi-driver",
+    "thumbnail": "https://theQuizQuest.github.io/images/452.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stick-crush",
+    "thumbnail": "https://theQuizQuest.github.io/images/453.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ancient-wars-caesar",
+    "thumbnail": "https://theQuizQuest.github.io/images/454.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "butterfly-shimai",
+    "thumbnail": "https://theQuizQuest.github.io/images/455.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bouncemasters",
+    "thumbnail": "https://theQuizQuest.github.io/images/456.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cunning-ginger",
+    "thumbnail": "https://theQuizQuest.github.io/images/457.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "circle-farm",
+    "thumbnail": "https://theQuizQuest.github.io/images/458.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tropical-merge",
+    "thumbnail": "https://theQuizQuest.github.io/images/459.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bank-robbery",
+    "thumbnail": "https://theQuizQuest.github.io/images/460.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "castle-wars-middle-ages",
+    "thumbnail": "https://theQuizQuest.github.io/images/461.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "potion-sort",
+    "thumbnail": "https://theQuizQuest.github.io/images/462.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "word-clash",
+    "thumbnail": "https://theQuizQuest.github.io/images/463.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "mini-golf-club",
+    "thumbnail": "https://theQuizQuest.github.io/images/464.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-pixel-apocalypse-3",
+    "thumbnail": "https://theQuizQuest.github.io/images/465.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "traitor-beaver",
+    "thumbnail": "https://theQuizQuest.github.io/images/466.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "poxel-io",
+    "thumbnail": "https://theQuizQuest.github.io/images/467.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bartender-the-right-mix",
+    "thumbnail": "https://theQuizQuest.github.io/images/468.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "domino-battle",
+    "thumbnail": "https://theQuizQuest.github.io/images/469.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kitty-scramble",
+    "thumbnail": "https://theQuizQuest.github.io/images/470.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tile-farm-story-matching-game",
+    "thumbnail": "https://theQuizQuest.github.io/images/471.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "skibronx-runner",
+    "thumbnail": "https://theQuizQuest.github.io/images/472.webp",
+    "genre": "Adventure, Sports"
+  },
+  {
+    "id": "mahjong-connect-2-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/473.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sniper-team-3",
+    "thumbnail": "https://theQuizQuest.github.io/images/474.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dig-tycoon---idle-game-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/475.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "geometry-stars",
+    "thumbnail": "https://theQuizQuest.github.io/images/476.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "celtic-mahjong-solitaire",
+    "thumbnail": "https://theQuizQuest.github.io/images/477.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "aces-of-the-sky-epic-dogfights",
+    "thumbnail": "https://theQuizQuest.github.io/images/478.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "octonauts-bubbles",
+    "thumbnail": "https://theQuizQuest.github.io/images/479.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "super-bike-the-champion",
+    "thumbnail": "https://theQuizQuest.github.io/images/480.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-battleground",
+    "thumbnail": "https://theQuizQuest.github.io/images/481.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obstacle-race-destroying-simulator",
+    "thumbnail": "https://theQuizQuest.github.io/images/482.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "high-school-teacher-games-life",
+    "thumbnail": "https://theQuizQuest.github.io/images/483.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gold-miner",
+    "thumbnail": "https://theQuizQuest.github.io/images/484.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "raid-heroes-sword-and-magic-bbm",
+    "thumbnail": "https://theQuizQuest.github.io/images/485.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "happy-egg-catch",
+    "thumbnail": "https://theQuizQuest.github.io/images/486.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tappy-bird-avoid-the-spikes",
+    "thumbnail": "https://theQuizQuest.github.io/images/487.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gun-strike-runner",
+    "thumbnail": "https://theQuizQuest.github.io/images/488.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "papas-wingeria",
+    "thumbnail": "https://theQuizQuest.github.io/images/489.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-land",
+    "thumbnail": "https://theQuizQuest.github.io/images/490.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-raider",
+    "thumbnail": "https://theQuizQuest.github.io/images/491.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "walkers-attack",
+    "thumbnail": "https://theQuizQuest.github.io/images/492.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "kour-io",
+    "thumbnail": "https://theQuizQuest.github.io/images/493.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-fruits",
+    "thumbnail": "https://theQuizQuest.github.io/images/494.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "run-and-jump-for-brainrot",
+    "thumbnail": "https://theQuizQuest.github.io/images/495.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-game-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/496.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "obby-stranded-survivor",
+    "thumbnail": "https://theQuizQuest.github.io/images/497.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-school",
+    "thumbnail": "https://theQuizQuest.github.io/images/498.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "battle-for-the-galaxy",
+    "thumbnail": "https://theQuizQuest.github.io/images/499.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-mine-jqj",
+    "thumbnail": "https://theQuizQuest.github.io/images/500.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bike-trial-xtreme-forest",
+    "thumbnail": "https://theQuizQuest.github.io/images/501.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "google-feud",
+    "thumbnail": "https://theQuizQuest.github.io/images/502.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fl-tron",
+    "thumbnail": "https://theQuizQuest.github.io/images/503.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "high-school-popular-games",
+    "thumbnail": "https://theQuizQuest.github.io/images/504.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "quiz-10-seconds-math",
+    "thumbnail": "https://theQuizQuest.github.io/images/505.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "room-sort-floor-plan",
+    "thumbnail": "https://theQuizQuest.github.io/images/506.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "cat-football",
+    "thumbnail": "https://theQuizQuest.github.io/images/507.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "trial-mania",
+    "thumbnail": "https://theQuizQuest.github.io/images/508.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "yarn-fever-unravel-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/509.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "free-rally-lost-angeles",
+    "thumbnail": "https://theQuizQuest.github.io/images/510.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slide-them-away",
+    "thumbnail": "https://theQuizQuest.github.io/images/511.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "farm-merge-valley",
+    "thumbnail": "https://theQuizQuest.github.io/images/512.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "traffic-rider-vvq",
+    "thumbnail": "https://theQuizQuest.github.io/images/513.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-team-tactics",
+    "thumbnail": "https://theQuizQuest.github.io/images/514.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gangster-crimes-online-6-mafia-city",
+    "thumbnail": "https://theQuizQuest.github.io/images/515.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "steve-s-world",
+    "thumbnail": "https://theQuizQuest.github.io/images/516.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "student-and-teacher",
+    "thumbnail": "https://theQuizQuest.github.io/images/517.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bullet-force-multiplayer",
+    "thumbnail": "https://theQuizQuest.github.io/images/518.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "nonogram",
+    "thumbnail": "https://theQuizQuest.github.io/images/519.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "neon-nexus-starship-evolution",
+    "thumbnail": "https://theQuizQuest.github.io/images/520.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "1941-frozen-front",
+    "thumbnail": "https://theQuizQuest.github.io/images/521.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "memebattle-what-s-that-meme",
+    "thumbnail": "https://theQuizQuest.github.io/images/522.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jelly-run-2048",
+    "thumbnail": "https://theQuizQuest.github.io/images/523.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "city-bus-driver",
+    "thumbnail": "https://theQuizQuest.github.io/images/524.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "last-play-ragdoll-sandbox-kqb",
+    "thumbnail": "https://theQuizQuest.github.io/images/525.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "freddys-nightmares-return-horror-new-year",
+    "thumbnail": "https://theQuizQuest.github.io/images/526.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "one-line-drawing",
+    "thumbnail": "https://theQuizQuest.github.io/images/527.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "super-robo-adventure",
+    "thumbnail": "https://theQuizQuest.github.io/images/528.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pin-puzzle-save-the-sheep",
+    "thumbnail": "https://theQuizQuest.github.io/images/529.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "console-idle",
+    "thumbnail": "https://theQuizQuest.github.io/images/530.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "treasure-hunt-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/531.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dudu-engineering-truck",
+    "thumbnail": "https://theQuizQuest.github.io/images/532.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cat-life-simulator",
+    "thumbnail": "https://theQuizQuest.github.io/images/533.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-fruit-time",
+    "thumbnail": "https://theQuizQuest.github.io/images/534.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "magic-and-wizards-match",
+    "thumbnail": "https://theQuizQuest.github.io/images/535.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "brainrot-arena-online",
+    "thumbnail": "https://theQuizQuest.github.io/images/536.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grow-island",
+    "thumbnail": "https://theQuizQuest.github.io/images/537.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-fest-winterland",
+    "thumbnail": "https://theQuizQuest.github.io/images/538.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "billiard-diamond-challenge",
+    "thumbnail": "https://theQuizQuest.github.io/images/539.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "balloon-pop-frenzy",
+    "thumbnail": "https://theQuizQuest.github.io/images/540.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "monster-life",
+    "thumbnail": "https://theQuizQuest.github.io/images/541.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cameraman-vs-toilets-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/542.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "speed-run-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/543.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "tech-mart-simulator",
+    "thumbnail": "https://theQuizQuest.github.io/images/544.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-kombat-2d",
+    "thumbnail": "https://theQuizQuest.github.io/images/545.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "time-control",
+    "thumbnail": "https://theQuizQuest.github.io/images/546.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "imposter-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/547.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "krewio",
+    "thumbnail": "https://theQuizQuest.github.io/images/548.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-magic-islands",
+    "thumbnail": "https://theQuizQuest.github.io/images/549.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "craft-and-battle",
+    "thumbnail": "https://theQuizQuest.github.io/images/550.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rescue-hero",
+    "thumbnail": "https://theQuizQuest.github.io/images/551.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pool-master",
+    "thumbnail": "https://theQuizQuest.github.io/images/552.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "the-patagonians",
+    "thumbnail": "https://theQuizQuest.github.io/images/553.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "find-joe-unsolved-mystery-pno",
+    "thumbnail": "https://theQuizQuest.github.io/images/554.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "unmatched-basketball",
+    "thumbnail": "https://theQuizQuest.github.io/images/555.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pocketro",
+    "thumbnail": "https://theQuizQuest.github.io/images/556.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cube-speed-dash",
+    "thumbnail": "https://theQuizQuest.github.io/images/557.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "lucky-brainrot-blocks-online",
+    "thumbnail": "https://theQuizQuest.github.io/images/558.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "solitaire-mahjong-farm-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/559.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "jetpack-joyride-pcp",
+    "thumbnail": "https://theQuizQuest.github.io/images/560.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "beat-blader-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/561.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "spider-evolution",
+    "thumbnail": "https://theQuizQuest.github.io/images/562.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "100-doors-challenge",
+    "thumbnail": "https://theQuizQuest.github.io/images/563.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-colors",
+    "thumbnail": "https://theQuizQuest.github.io/images/564.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-pet-quest",
+    "thumbnail": "https://theQuizQuest.github.io/images/565.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "garden-idle",
+    "thumbnail": "https://theQuizQuest.github.io/images/566.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "timberland-arrange-puzzle-game",
+    "thumbnail": "https://theQuizQuest.github.io/images/567.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snake-out-maze-escape",
+    "thumbnail": "https://theQuizQuest.github.io/images/568.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "web-master",
+    "thumbnail": "https://theQuizQuest.github.io/images/569.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rolling-balls-space-race",
+    "thumbnail": "https://theQuizQuest.github.io/images/570.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "color-dash",
+    "thumbnail": "https://theQuizQuest.github.io/images/571.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "robotik",
+    "thumbnail": "https://theQuizQuest.github.io/images/572.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "big-block-blast",
+    "thumbnail": "https://theQuizQuest.github.io/images/573.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "street-racing-open-world",
+    "thumbnail": "https://theQuizQuest.github.io/images/574.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fly-and-shoot-1-italian-bosses",
+    "thumbnail": "https://theQuizQuest.github.io/images/575.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "dream-hospital-tycoon-doctor",
+    "thumbnail": "https://theQuizQuest.github.io/images/576.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robberies-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/577.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "eat-and-grow-fish-jmq",
+    "thumbnail": "https://theQuizQuest.github.io/images/578.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kitchen-escape",
+    "thumbnail": "https://theQuizQuest.github.io/images/579.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-onion-boy-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/580.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "genius-mechanic",
+    "thumbnail": "https://theQuizQuest.github.io/images/581.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "real-warships",
+    "thumbnail": "https://theQuizQuest.github.io/images/582.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hill-travel-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/583.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "solitaire-tail",
+    "thumbnail": "https://theQuizQuest.github.io/images/584.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "flight-sim-air-traffic-control",
+    "thumbnail": "https://theQuizQuest.github.io/images/585.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "mahjong-royal",
+    "thumbnail": "https://theQuizQuest.github.io/images/586.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-thrower",
+    "thumbnail": "https://theQuizQuest.github.io/images/587.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "epic-racing-descent-on-cars",
+    "thumbnail": "https://theQuizQuest.github.io/images/588.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "romantic-match-tactics",
+    "thumbnail": "https://theQuizQuest.github.io/images/589.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "grow-a-garden-online-offline",
+    "thumbnail": "https://theQuizQuest.github.io/images/590.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "cricket-clash",
+    "thumbnail": "https://theQuizQuest.github.io/images/591.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "color-dots-challenge",
+    "thumbnail": "https://theQuizQuest.github.io/images/592.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "frogiddy",
+    "thumbnail": "https://theQuizQuest.github.io/images/593.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "letterclash",
+    "thumbnail": "https://theQuizQuest.github.io/images/594.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-doors-and-island",
+    "thumbnail": "https://theQuizQuest.github.io/images/595.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "italian-brainrot-in-geometry-dash",
+    "thumbnail": "https://theQuizQuest.github.io/images/596.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "brainrot-merge-fight",
+    "thumbnail": "https://theQuizQuest.github.io/images/597.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "easy-obby-jump-and-run-challenge-online",
+    "thumbnail": "https://theQuizQuest.github.io/images/598.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "what-a-leg",
+    "thumbnail": "https://theQuizQuest.github.io/images/599.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dirt-bike-mad-skills",
+    "thumbnail": "https://theQuizQuest.github.io/images/600.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fill-the-fridge",
+    "thumbnail": "https://theQuizQuest.github.io/images/601.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dr-parking",
+    "thumbnail": "https://theQuizQuest.github.io/images/602.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "faraway-puzzle-escape",
+    "thumbnail": "https://theQuizQuest.github.io/images/603.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-destruction-king",
+    "thumbnail": "https://theQuizQuest.github.io/images/604.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "pops-quest",
+    "thumbnail": "https://theQuizQuest.github.io/images/605.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "codequest",
+    "thumbnail": "https://theQuizQuest.github.io/images/606.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "crazy-grand-prix",
+    "thumbnail": "https://theQuizQuest.github.io/images/607.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dynamons-connect",
+    "thumbnail": "https://theQuizQuest.github.io/images/608.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "12-in-1-solitaire",
+    "thumbnail": "https://theQuizQuest.github.io/images/609.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "ole-bunny",
+    "thumbnail": "https://theQuizQuest.github.io/images/610.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "superhero-transform-change-race",
+    "thumbnail": "https://theQuizQuest.github.io/images/611.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "advent-mahjong",
+    "thumbnail": "https://theQuizQuest.github.io/images/612.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "echolocation-shooter",
+    "thumbnail": "https://theQuizQuest.github.io/images/613.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "turbo-crash",
+    "thumbnail": "https://theQuizQuest.github.io/images/614.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "doomsday-tower-defense",
+    "thumbnail": "https://theQuizQuest.github.io/images/615.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "dark-odyssey-lzc",
+    "thumbnail": "https://theQuizQuest.github.io/images/616.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-swords-idle-rpg",
+    "thumbnail": "https://theQuizQuest.github.io/images/617.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tunnel-54",
+    "thumbnail": "https://theQuizQuest.github.io/images/618.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sprunki-phase-brainrot",
+    "thumbnail": "https://theQuizQuest.github.io/images/619.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "cat-chaos-simulator",
+    "thumbnail": "https://theQuizQuest.github.io/images/620.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "the-best-russian-billiards",
+    "thumbnail": "https://theQuizQuest.github.io/images/621.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "money-printer",
+    "thumbnail": "https://theQuizQuest.github.io/images/622.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mad-truck",
+    "thumbnail": "https://theQuizQuest.github.io/images/623.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "i-dont-even-know",
+    "thumbnail": "https://theQuizQuest.github.io/images/624.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fantasy-idle-tycoon",
+    "thumbnail": "https://theQuizQuest.github.io/images/625.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fruit-merge-juicy-drop-game",
+    "thumbnail": "https://theQuizQuest.github.io/images/626.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "wodr",
+    "thumbnail": "https://theQuizQuest.github.io/images/627.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bowling-stars",
+    "thumbnail": "https://theQuizQuest.github.io/images/628.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "gangsters",
+    "thumbnail": "https://theQuizQuest.github.io/images/629.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "army-fight-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/630.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "pim-path",
+    "thumbnail": "https://theQuizQuest.github.io/images/631.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "street-fighter-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/632.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "nail-queen",
+    "thumbnail": "https://theQuizQuest.github.io/images/633.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mini-grand-theft-city",
+    "thumbnail": "https://theQuizQuest.github.io/images/634.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "rotator",
+    "thumbnail": "https://theQuizQuest.github.io/images/635.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "market-boss",
+    "thumbnail": "https://theQuizQuest.github.io/images/636.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blast-cubes",
+    "thumbnail": "https://theQuizQuest.github.io/images/637.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "unicorn-family-simulator-magic-world",
+    "thumbnail": "https://theQuizQuest.github.io/images/638.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "facechart",
+    "thumbnail": "https://theQuizQuest.github.io/images/639.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "hula-hoop-race",
+    "thumbnail": "https://theQuizQuest.github.io/images/640.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-shooting-king",
+    "thumbnail": "https://theQuizQuest.github.io/images/641.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "jump-ball-classic",
+    "thumbnail": "https://theQuizQuest.github.io/images/642.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "crush-it-all",
+    "thumbnail": "https://theQuizQuest.github.io/images/643.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "break-a-lucky-egg-brainrots",
+    "thumbnail": "https://theQuizQuest.github.io/images/644.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "squidgameio",
+    "thumbnail": "https://theQuizQuest.github.io/images/645.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "marble-run-ultimate-race",
+    "thumbnail": "https://theQuizQuest.github.io/images/646.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "football-heads-2025",
+    "thumbnail": "https://theQuizQuest.github.io/images/647.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "cooking-world-reborn",
+    "thumbnail": "https://theQuizQuest.github.io/images/648.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sniper-for-brainrot",
+    "thumbnail": "https://theQuizQuest.github.io/images/649.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "stunt-horizon",
+    "thumbnail": "https://theQuizQuest.github.io/images/650.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-witch-tower",
+    "thumbnail": "https://theQuizQuest.github.io/images/651.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "jailbreak-assault",
+    "thumbnail": "https://theQuizQuest.github.io/images/652.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "math-quest",
+    "thumbnail": "https://theQuizQuest.github.io/images/653.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "madness-project-nexus",
+    "thumbnail": "https://theQuizQuest.github.io/images/654.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "darts-mastercartoon-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/655.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "archers-random",
+    "thumbnail": "https://theQuizQuest.github.io/images/656.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "looper-czi",
+    "thumbnail": "https://theQuizQuest.github.io/images/657.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-the-legendary-dragon",
+    "thumbnail": "https://theQuizQuest.github.io/images/658.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "jeff-the-killer-horrendous-smile",
+    "thumbnail": "https://theQuizQuest.github.io/images/659.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tripeaks-solitaire-escapes",
+    "thumbnail": "https://theQuizQuest.github.io/images/660.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "bloxdhop-io",
+    "thumbnail": "https://theQuizQuest.github.io/images/661.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "day-d-tower-rush",
+    "thumbnail": "https://theQuizQuest.github.io/images/662.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "leek-factory-tycoon",
+    "thumbnail": "https://theQuizQuest.github.io/images/663.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-animal-anatomy",
+    "thumbnail": "https://theQuizQuest.github.io/images/664.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "letters-match",
+    "thumbnail": "https://theQuizQuest.github.io/images/665.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "snow-farm-happy-new-year",
+    "thumbnail": "https://theQuizQuest.github.io/images/666.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-puzzle-tropical-story",
+    "thumbnail": "https://theQuizQuest.github.io/images/667.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "shop-sorting-xmas",
+    "thumbnail": "https://theQuizQuest.github.io/images/668.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cubica",
+    "thumbnail": "https://theQuizQuest.github.io/images/669.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cake-sort",
+    "thumbnail": "https://theQuizQuest.github.io/images/670.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "zindex",
+    "thumbnail": "https://theQuizQuest.github.io/images/671.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "fix-the-hoof",
+    "thumbnail": "https://theQuizQuest.github.io/images/672.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "brainrot-merge-drop-puzzle-twt",
+    "thumbnail": "https://theQuizQuest.github.io/images/673.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sniper-assassin-government-agent",
+    "thumbnail": "https://theQuizQuest.github.io/images/674.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lucky-brainrot-blocks-online-ehx",
+    "thumbnail": "https://theQuizQuest.github.io/images/675.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dusty-maze-hunter",
+    "thumbnail": "https://theQuizQuest.github.io/images/676.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "ragdoll-throw-challenge",
+    "thumbnail": "https://theQuizQuest.github.io/images/677.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "thief-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/678.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jewel-academy",
+    "thumbnail": "https://theQuizQuest.github.io/images/679.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "night-club-security",
+    "thumbnail": "https://theQuizQuest.github.io/images/680.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "delven",
+    "thumbnail": "https://theQuizQuest.github.io/images/681.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "associations---word-connect",
+    "thumbnail": "https://theQuizQuest.github.io/images/682.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ink-shop-dress-tattoo-games",
+    "thumbnail": "https://theQuizQuest.github.io/images/683.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "house-flip",
+    "thumbnail": "https://theQuizQuest.github.io/images/684.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "adventure-island-vok",
+    "thumbnail": "https://theQuizQuest.github.io/images/685.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bridge-fight",
+    "thumbnail": "https://theQuizQuest.github.io/images/686.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "idle-barber-shop",
+    "thumbnail": "https://theQuizQuest.github.io/images/687.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "merge-construct",
+    "thumbnail": "https://theQuizQuest.github.io/images/688.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ranch-adventures",
+    "thumbnail": "https://theQuizQuest.github.io/images/689.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cube-island-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/690.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "growmi",
+    "thumbnail": "https://theQuizQuest.github.io/images/691.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-solitaire-zodiac",
+    "thumbnail": "https://theQuizQuest.github.io/images/692.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "monsterella-fantasy-makeup",
+    "thumbnail": "https://theQuizQuest.github.io/images/693.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "short-life-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/694.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "italian-brainrot-bike-rush",
+    "thumbnail": "https://theQuizQuest.github.io/images/695.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "brainrot-hole",
+    "thumbnail": "https://theQuizQuest.github.io/images/696.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "blocksss",
+    "thumbnail": "https://theQuizQuest.github.io/images/697.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "nullify",
+    "thumbnail": "https://theQuizQuest.github.io/images/698.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jewel-garden-story",
+    "thumbnail": "https://theQuizQuest.github.io/images/699.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "autogun-heroes-izk",
+    "thumbnail": "https://theQuizQuest.github.io/images/700.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stupidity-test",
+    "thumbnail": "https://theQuizQuest.github.io/images/701.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hidden-object-clues-and-mysteries",
+    "thumbnail": "https://theQuizQuest.github.io/images/702.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "winter-clash-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/703.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "emergency-operator",
+    "thumbnail": "https://theQuizQuest.github.io/images/704.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "merge-drop",
+    "thumbnail": "https://theQuizQuest.github.io/images/705.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fish-it-now",
+    "thumbnail": "https://theQuizQuest.github.io/images/706.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "basketball-damage",
+    "thumbnail": "https://theQuizQuest.github.io/images/707.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "real-impossible-sky-tracks-car-driving",
+    "thumbnail": "https://theQuizQuest.github.io/images/708.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "steal-brainrot-eggs",
+    "thumbnail": "https://theQuizQuest.github.io/images/709.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "hide-me",
+    "thumbnail": "https://theQuizQuest.github.io/images/710.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cg-fc-24",
+    "thumbnail": "https://theQuizQuest.github.io/images/711.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slendrina-must-die-the-school",
+    "thumbnail": "https://theQuizQuest.github.io/images/712.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pyramid-solitaire-ancient-egypt",
+    "thumbnail": "https://theQuizQuest.github.io/images/713.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "discover-the-city",
+    "thumbnail": "https://theQuizQuest.github.io/images/714.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mine-blocks",
+    "thumbnail": "https://theQuizQuest.github.io/images/715.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "park-them-all",
+    "thumbnail": "https://theQuizQuest.github.io/images/716.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "fnaf-shooter",
+    "thumbnail": "https://theQuizQuest.github.io/images/717.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-click-and-grow",
+    "thumbnail": "https://theQuizQuest.github.io/images/718.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "simon-super-rabbit",
+    "thumbnail": "https://theQuizQuest.github.io/images/719.webp",
+    "genre": "Adventure, Educational"
+  },
+  {
+    "id": "girls-nail-salon---nail-games",
+    "thumbnail": "https://theQuizQuest.github.io/images/720.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "scavenger-hunt---multiplayer",
+    "thumbnail": "https://theQuizQuest.github.io/images/721.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hole-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/722.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "grow-warsio",
+    "thumbnail": "https://theQuizQuest.github.io/images/723.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "disk-strike-carrom-challenge",
+    "thumbnail": "https://theQuizQuest.github.io/images/724.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chill-clicker",
+    "thumbnail": "https://theQuizQuest.github.io/images/725.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "escape-tsunami-brainrot",
+    "thumbnail": "https://theQuizQuest.github.io/images/726.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stick-hero-battle",
+    "thumbnail": "https://theQuizQuest.github.io/images/727.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "burnin-rubber-crash-n-burn",
+    "thumbnail": "https://theQuizQuest.github.io/images/728.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "marina-fever-tycoon",
+    "thumbnail": "https://theQuizQuest.github.io/images/729.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "warfront",
+    "thumbnail": "https://theQuizQuest.github.io/images/730.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "plane-chase",
+    "thumbnail": "https://theQuizQuest.github.io/images/731.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "obby-sprunki-pet-world",
+    "thumbnail": "https://theQuizQuest.github.io/images/732.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "animal-swipe",
+    "thumbnail": "https://theQuizQuest.github.io/images/733.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "cat-life-merge-money",
+    "thumbnail": "https://theQuizQuest.github.io/images/734.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "zombiecraftio",
+    "thumbnail": "https://theQuizQuest.github.io/images/735.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tile-match-cafe",
+    "thumbnail": "https://theQuizQuest.github.io/images/736.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bank-robbery-3",
+    "thumbnail": "https://theQuizQuest.github.io/images/737.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "arkadium-s-bubble-shooter",
+    "thumbnail": "https://theQuizQuest.github.io/images/738.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rocket-fest",
+    "thumbnail": "https://theQuizQuest.github.io/images/739.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "heritage-mahjong-classic",
+    "thumbnail": "https://theQuizQuest.github.io/images/740.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "gt-cars-mega-ramps",
+    "thumbnail": "https://theQuizQuest.github.io/images/741.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pull-the-pins",
+    "thumbnail": "https://theQuizQuest.github.io/images/742.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ann",
+    "thumbnail": "https://theQuizQuest.github.io/images/743.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cars-derby-arena",
+    "thumbnail": "https://theQuizQuest.github.io/images/744.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "merge-gun-fps-shooting-zombie",
+    "thumbnail": "https://theQuizQuest.github.io/images/745.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "the-roman-empire-colosseum",
+    "thumbnail": "https://theQuizQuest.github.io/images/746.webp",
+    "genre": "Battle, Simulation"
+  },
+  {
+    "id": "grand-theft-ny",
+    "thumbnail": "https://theQuizQuest.github.io/images/747.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "merge-brick-breaker",
+    "thumbnail": "https://theQuizQuest.github.io/images/748.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "detective-logic-puzzles",
+    "thumbnail": "https://theQuizQuest.github.io/images/749.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "legend-of-dragon-hunt",
+    "thumbnail": "https://theQuizQuest.github.io/images/750.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fire-truck-driving-school",
+    "thumbnail": "https://theQuizQuest.github.io/images/751.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "survival-island-evo",
+    "thumbnail": "https://theQuizQuest.github.io/images/752.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "gravity-crowd",
+    "thumbnail": "https://theQuizQuest.github.io/images/753.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cat-warrior-parkour",
+    "thumbnail": "https://theQuizQuest.github.io/images/754.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fruit-merge-arena",
+    "thumbnail": "https://theQuizQuest.github.io/images/755.webp",
+    "genre": "Simulation, Merge"
+  },
+  {
+    "id": "obby-miner-boss-battle",
+    "thumbnail": "https://theQuizQuest.github.io/images/756.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "appel",
+    "thumbnail": "https://theQuizQuest.github.io/images/757.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bird-sort-challenges",
+    "thumbnail": "https://theQuizQuest.github.io/images/758.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "skate-hooligans",
+    "thumbnail": "https://theQuizQuest.github.io/images/759.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "grid-odyssey-nonograms",
+    "thumbnail": "https://theQuizQuest.github.io/images/760.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bomb-evolution",
+    "thumbnail": "https://theQuizQuest.github.io/images/761.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "police-town-car-chase",
+    "thumbnail": "https://theQuizQuest.github.io/images/762.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "weapons-and-ragdolls",
+    "thumbnail": "https://theQuizQuest.github.io/images/763.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pentaword",
+    "thumbnail": "https://theQuizQuest.github.io/images/764.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "deep-fishing",
+    "thumbnail": "https://theQuizQuest.github.io/images/765.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "monochrome-looks",
+    "thumbnail": "https://theQuizQuest.github.io/images/766.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pocket-universe-frd",
+    "thumbnail": "https://theQuizQuest.github.io/images/767.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robot-transform-race",
+    "thumbnail": "https://theQuizQuest.github.io/images/768.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "simply-prop-hunt",
+    "thumbnail": "https://theQuizQuest.github.io/images/769.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-galaxy",
+    "thumbnail": "https://theQuizQuest.github.io/images/770.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mine-clone",
+    "thumbnail": "https://theQuizQuest.github.io/images/771.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ball-paint-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/772.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "plant-squad",
+    "thumbnail": "https://theQuizQuest.github.io/images/773.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cars-vs-skibidi-toilet",
+    "thumbnail": "https://theQuizQuest.github.io/images/774.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ultra-realistic-blockcraft",
+    "thumbnail": "https://theQuizQuest.github.io/images/775.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stickman-archero-fight-stick-shadow-fight-war",
+    "thumbnail": "https://theQuizQuest.github.io/images/776.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "apple-shooter",
+    "thumbnail": "https://theQuizQuest.github.io/images/777.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bloons",
+    "thumbnail": "https://theQuizQuest.github.io/images/778.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "anime-boy-dress-up-games",
+    "thumbnail": "https://theQuizQuest.github.io/images/779.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "swordsman-adventure",
+    "thumbnail": "https://theQuizQuest.github.io/images/780.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "tile-craft-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/781.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "scary-horror-escape-room-games",
+    "thumbnail": "https://theQuizQuest.github.io/images/782.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hungry-snake-io",
+    "thumbnail": "https://theQuizQuest.github.io/images/783.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "mr-bean-jump",
+    "thumbnail": "https://theQuizQuest.github.io/images/784.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "blubble-io",
+    "thumbnail": "https://theQuizQuest.github.io/images/785.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "happy-town",
+    "thumbnail": "https://theQuizQuest.github.io/images/786.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "freecell",
+    "thumbnail": "https://theQuizQuest.github.io/images/787.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "woop-crawl-up",
+    "thumbnail": "https://theQuizQuest.github.io/images/788.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tower-vs-goblins",
+    "thumbnail": "https://theQuizQuest.github.io/images/789.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fruit-merge-reloaded",
+    "thumbnail": "https://theQuizQuest.github.io/images/790.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "hidden-easter-egg-hunt",
+    "thumbnail": "https://theQuizQuest.github.io/images/791.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-gym-simulator-escape",
+    "thumbnail": "https://theQuizQuest.github.io/images/792.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "labubu-doll-mukbang-asmr-unblocked",
+    "thumbnail": "https://theQuizQuest.github.io/images/793.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "laqueus-escape-2---chapter-i",
+    "thumbnail": "https://theQuizQuest.github.io/images/794.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slendrina-must-die-the-forest",
+    "thumbnail": "https://theQuizQuest.github.io/images/795.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "defuse-the-bomb-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/796.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-outbreak-arena",
+    "thumbnail": "https://theQuizQuest.github.io/images/797.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hammer-master-craft-destroy",
+    "thumbnail": "https://theQuizQuest.github.io/images/798.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "italian-brainrot-tung-tung-racing",
+    "thumbnail": "https://theQuizQuest.github.io/images/799.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "escape-from-the-bunker-survival",
+    "thumbnail": "https://theQuizQuest.github.io/images/800.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sniper-shooter-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/801.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "halloween-makeup-trends",
+    "thumbnail": "https://theQuizQuest.github.io/images/802.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bouncy-dunk",
+    "thumbnail": "https://theQuizQuest.github.io/images/803.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "3d-super-rolling-ball-race",
+    "thumbnail": "https://theQuizQuest.github.io/images/804.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "openfront-gsw",
+    "thumbnail": "https://theQuizQuest.github.io/images/805.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bloom-dale-mtj",
+    "thumbnail": "https://theQuizQuest.github.io/images/806.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mech-monster-arena",
+    "thumbnail": "https://theQuizQuest.github.io/images/807.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "screw-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/808.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "candy-battle-sweet-survivors",
+    "thumbnail": "https://theQuizQuest.github.io/images/809.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "leap-and-avoid-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/810.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fleet-battle",
+    "thumbnail": "https://theQuizQuest.github.io/images/811.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "a-little-physics-roguelike",
+    "thumbnail": "https://theQuizQuest.github.io/images/812.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "offroad-cargo-transport-truck",
+    "thumbnail": "https://theQuizQuest.github.io/images/813.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dodgeball",
+    "thumbnail": "https://theQuizQuest.github.io/images/814.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "color-water-sort-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/815.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dead-faces-clone-online",
+    "thumbnail": "https://theQuizQuest.github.io/images/816.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "colorwarsio-conquest-game",
+    "thumbnail": "https://theQuizQuest.github.io/images/817.webp",
+    "genre": ".IO, Strategy"
+  },
+  {
+    "id": "tile-match-the-immersive-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/818.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "try-to-count-the-boxes-brain-training",
+    "thumbnail": "https://theQuizQuest.github.io/images/819.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "boom-land-lite",
+    "thumbnail": "https://theQuizQuest.github.io/images/820.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "vegamix-match-3-village",
+    "thumbnail": "https://theQuizQuest.github.io/images/821.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "sticker-puzzle-book",
+    "thumbnail": "https://theQuizQuest.github.io/images/822.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dwarves-glory-death-and-loot",
+    "thumbnail": "https://theQuizQuest.github.io/images/823.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zen-mower",
+    "thumbnail": "https://theQuizQuest.github.io/images/824.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "nano-racers",
+    "thumbnail": "https://theQuizQuest.github.io/images/825.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "west-frontier-sharpshooter-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/826.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "sorting-sorcery",
+    "thumbnail": "https://theQuizQuest.github.io/images/827.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "opposite-day",
+    "thumbnail": "https://theQuizQuest.github.io/images/828.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blockpuzzle-color-blast",
+    "thumbnail": "https://theQuizQuest.github.io/images/829.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "magic-piano-music",
+    "thumbnail": "https://theQuizQuest.github.io/images/830.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "swap-color",
+    "thumbnail": "https://theQuizQuest.github.io/images/831.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "the-white-room",
+    "thumbnail": "https://theQuizQuest.github.io/images/832.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "xor",
+    "thumbnail": "https://theQuizQuest.github.io/images/833.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-brainrot",
+    "thumbnail": "https://theQuizQuest.github.io/images/834.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "block-blast-jewel-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/835.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "single-line-drawing-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/836.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ellie-s-recipe-dubai-chocolate-bar",
+    "thumbnail": "https://theQuizQuest.github.io/images/837.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zip-zap",
+    "thumbnail": "https://theQuizQuest.github.io/images/838.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "coin-merge-machine",
+    "thumbnail": "https://theQuizQuest.github.io/images/839.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tap-gallery",
+    "thumbnail": "https://theQuizQuest.github.io/images/840.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "world-wars-tanks",
+    "thumbnail": "https://theQuizQuest.github.io/images/841.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "arrow-shift-logic-tree",
+    "thumbnail": "https://theQuizQuest.github.io/images/842.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "spot-the-difference-forever",
+    "thumbnail": "https://theQuizQuest.github.io/images/843.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slendrina-must-die-the-house",
+    "thumbnail": "https://theQuizQuest.github.io/images/844.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "deep-sea-duel",
+    "thumbnail": "https://theQuizQuest.github.io/images/845.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shoot-mine-upgrade-repeat",
+    "thumbnail": "https://theQuizQuest.github.io/images/846.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gun-blast",
+    "thumbnail": "https://theQuizQuest.github.io/images/847.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sid-ginny-y2k-glam-clash",
+    "thumbnail": "https://theQuizQuest.github.io/images/848.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "last-archer",
+    "thumbnail": "https://theQuizQuest.github.io/images/849.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "battle-arena",
+    "thumbnail": "https://theQuizQuest.github.io/images/850.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "roller-coaster-rush",
+    "thumbnail": "https://theQuizQuest.github.io/images/851.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "prison-break-architect-tycoon",
+    "thumbnail": "https://theQuizQuest.github.io/images/852.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lazergrrl",
+    "thumbnail": "https://theQuizQuest.github.io/images/853.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mermaid-princess-avater-castle",
+    "thumbnail": "https://theQuizQuest.github.io/images/854.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "castel-wars-modern",
+    "thumbnail": "https://theQuizQuest.github.io/images/855.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "screw-nuts-bolts-wood-solve",
+    "thumbnail": "https://theQuizQuest.github.io/images/856.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fury-of-the-steampunk-princess",
+    "thumbnail": "https://theQuizQuest.github.io/images/857.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "link",
+    "thumbnail": "https://theQuizQuest.github.io/images/858.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ng-flow-lines",
+    "thumbnail": "https://theQuizQuest.github.io/images/859.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "simplyup-io",
+    "thumbnail": "https://theQuizQuest.github.io/images/860.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-match",
+    "thumbnail": "https://theQuizQuest.github.io/images/861.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hot-cold-winter-style",
+    "thumbnail": "https://theQuizQuest.github.io/images/862.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "deform-it",
+    "thumbnail": "https://theQuizQuest.github.io/images/863.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "gobattleio",
+    "thumbnail": "https://theQuizQuest.github.io/images/864.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "city-car-driver",
+    "thumbnail": "https://theQuizQuest.github.io/images/865.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bird-flight-idle",
+    "thumbnail": "https://theQuizQuest.github.io/images/866.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-raft",
+    "thumbnail": "https://theQuizQuest.github.io/images/867.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "puzzle-play",
+    "thumbnail": "https://theQuizQuest.github.io/images/868.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "landmine-cube",
+    "thumbnail": "https://theQuizQuest.github.io/images/869.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pet-salon-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/870.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "draw-defense",
+    "thumbnail": "https://theQuizQuest.github.io/images/871.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-arcade-center",
+    "thumbnail": "https://theQuizQuest.github.io/images/872.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-rock-climber",
+    "thumbnail": "https://theQuizQuest.github.io/images/873.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "trail-ice-ride",
+    "thumbnail": "https://theQuizQuest.github.io/images/874.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tiny-ranger",
+    "thumbnail": "https://theQuizQuest.github.io/images/875.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robybox-space-station-warehouse",
+    "thumbnail": "https://theQuizQuest.github.io/images/876.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "medieval-battle-2p",
+    "thumbnail": "https://theQuizQuest.github.io/images/877.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "red-light-green-light",
+    "thumbnail": "https://theQuizQuest.github.io/images/878.webp",
+    "genre": "Agility, Simulation"
+  },
+  {
+    "id": "backrooms-among-impostor-rolling-giant",
+    "thumbnail": "https://theQuizQuest.github.io/images/879.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "pixlock",
+    "thumbnail": "https://theQuizQuest.github.io/images/880.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "goober-dash",
+    "thumbnail": "https://theQuizQuest.github.io/images/881.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "emberquest-io",
+    "thumbnail": "https://theQuizQuest.github.io/images/882.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "undead-broadcast",
+    "thumbnail": "https://theQuizQuest.github.io/images/883.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tower-defense",
+    "thumbnail": "https://theQuizQuest.github.io/images/884.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "ultimate-plants-td",
+    "thumbnail": "https://theQuizQuest.github.io/images/885.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "crazy-pig-simulator",
+    "thumbnail": "https://theQuizQuest.github.io/images/886.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dragon-simulator-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/887.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "unscrew-it-puzzle-game",
+    "thumbnail": "https://theQuizQuest.github.io/images/888.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-wall",
+    "thumbnail": "https://theQuizQuest.github.io/images/889.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "armor-path-ctb",
+    "thumbnail": "https://theQuizQuest.github.io/images/890.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "trivia-tec",
+    "thumbnail": "https://theQuizQuest.github.io/images/891.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mr-racer-stunt-mania",
+    "thumbnail": "https://theQuizQuest.github.io/images/892.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dream-pet-hotel",
+    "thumbnail": "https://theQuizQuest.github.io/images/893.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "magic-merge-tower-defense-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/894.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "las-vegas-poker",
+    "thumbnail": "https://theQuizQuest.github.io/images/895.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "two-rx7-drifters",
+    "thumbnail": "https://theQuizQuest.github.io/images/896.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "go-to-zero",
+    "thumbnail": "https://theQuizQuest.github.io/images/897.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "time-shooter",
+    "thumbnail": "https://theQuizQuest.github.io/images/898.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "true-love-calculator-nzw",
+    "thumbnail": "https://theQuizQuest.github.io/images/899.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cryptoword",
+    "thumbnail": "https://theQuizQuest.github.io/images/900.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "javelin-fighting",
+    "thumbnail": "https://theQuizQuest.github.io/images/901.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "street-freekick-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/902.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bang-bang-mahjong",
+    "thumbnail": "https://theQuizQuest.github.io/images/903.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "car-flip",
+    "thumbnail": "https://theQuizQuest.github.io/images/904.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "max-vs-gangsters",
+    "thumbnail": "https://theQuizQuest.github.io/images/905.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cougar-simulator-big-cats",
+    "thumbnail": "https://theQuizQuest.github.io/images/906.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "planetarium-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/907.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pottery-master",
+    "thumbnail": "https://theQuizQuest.github.io/images/908.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "muscle-shift",
+    "thumbnail": "https://theQuizQuest.github.io/images/909.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "battle-of-pirate-caribbean-battle",
+    "thumbnail": "https://theQuizQuest.github.io/images/910.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "falling-party",
+    "thumbnail": "https://theQuizQuest.github.io/images/911.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "click-click-clicker",
+    "thumbnail": "https://theQuizQuest.github.io/images/912.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sbaloon",
+    "thumbnail": "https://theQuizQuest.github.io/images/913.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "amazing-crime-strange-stickman",
+    "thumbnail": "https://theQuizQuest.github.io/images/914.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-tattoo",
+    "thumbnail": "https://theQuizQuest.github.io/images/915.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "parking-driver",
+    "thumbnail": "https://theQuizQuest.github.io/images/916.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "auto-drive---highway",
+    "thumbnail": "https://theQuizQuest.github.io/images/917.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-climber",
+    "thumbnail": "https://theQuizQuest.github.io/images/918.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "connect-balls-new-year-puzzles",
+    "thumbnail": "https://theQuizQuest.github.io/images/919.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "princess-winter-ice-skating-outfits",
+    "thumbnail": "https://theQuizQuest.github.io/images/920.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "gym-muscle-merge-tycoon",
+    "thumbnail": "https://theQuizQuest.github.io/images/921.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "puzzle-masters-travelers",
+    "thumbnail": "https://theQuizQuest.github.io/images/922.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "he-is-here",
+    "thumbnail": "https://theQuizQuest.github.io/images/923.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-sniper-missions",
+    "thumbnail": "https://theQuizQuest.github.io/images/924.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "gun-mayhem",
+    "thumbnail": "https://theQuizQuest.github.io/images/925.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-tiles-3",
+    "thumbnail": "https://theQuizQuest.github.io/images/926.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tictoc-urban-outfits",
+    "thumbnail": "https://theQuizQuest.github.io/images/927.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "city-blocks",
+    "thumbnail": "https://theQuizQuest.github.io/images/928.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bus-simulator-evo",
+    "thumbnail": "https://theQuizQuest.github.io/images/929.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "family-tree-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/930.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crusher-block-jwd",
+    "thumbnail": "https://theQuizQuest.github.io/images/931.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "punchy-race",
+    "thumbnail": "https://theQuizQuest.github.io/images/932.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "voxel-playground-ragdoll-noob",
+    "thumbnail": "https://theQuizQuest.github.io/images/933.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "build-house-simulator",
+    "thumbnail": "https://theQuizQuest.github.io/images/934.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "office-golf",
+    "thumbnail": "https://theQuizQuest.github.io/images/935.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "battle-cars-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/936.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "top-outpost",
+    "thumbnail": "https://theQuizQuest.github.io/images/937.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "english-checkers",
+    "thumbnail": "https://theQuizQuest.github.io/images/938.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "atlantic-sky-hunter-xtreme",
+    "thumbnail": "https://theQuizQuest.github.io/images/939.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "pizza-anomalies-tiu",
+    "thumbnail": "https://theQuizQuest.github.io/images/940.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-cafe",
+    "thumbnail": "https://theQuizQuest.github.io/images/941.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-flow",
+    "thumbnail": "https://theQuizQuest.github.io/images/942.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "2048-sort-factory",
+    "thumbnail": "https://theQuizQuest.github.io/images/943.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bouncy-barn",
+    "thumbnail": "https://theQuizQuest.github.io/images/944.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "monster-sanctuary",
+    "thumbnail": "https://theQuizQuest.github.io/images/945.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "panda-palace",
+    "thumbnail": "https://theQuizQuest.github.io/images/946.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mr-racer-car-racing",
+    "thumbnail": "https://theQuizQuest.github.io/images/947.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "forest-tiles",
+    "thumbnail": "https://theQuizQuest.github.io/images/948.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "steal-a-fish",
+    "thumbnail": "https://theQuizQuest.github.io/images/949.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "jump-guys",
+    "thumbnail": "https://theQuizQuest.github.io/images/950.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "deadly-parkour",
+    "thumbnail": "https://theQuizQuest.github.io/images/951.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "knifeio",
+    "thumbnail": "https://theQuizQuest.github.io/images/952.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "hamster-factory-asmr",
+    "thumbnail": "https://theQuizQuest.github.io/images/953.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mean-girls-graduation-day",
+    "thumbnail": "https://theQuizQuest.github.io/images/954.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2-player-online-chess",
+    "thumbnail": "https://theQuizQuest.github.io/images/955.webp",
+    "genre": "Boardgames, Strategy"
+  },
+  {
+    "id": "ludo-star-league",
+    "thumbnail": "https://theQuizQuest.github.io/images/956.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "guns-vs-zombies-merge-game-wsr",
+    "thumbnail": "https://theQuizQuest.github.io/images/957.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dead-paradise",
+    "thumbnail": "https://theQuizQuest.github.io/images/958.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "sudoku-szc",
+    "thumbnail": "https://theQuizQuest.github.io/images/959.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-neon",
+    "thumbnail": "https://theQuizQuest.github.io/images/960.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "dig-a-hole-in-russia",
+    "thumbnail": "https://theQuizQuest.github.io/images/961.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "horse-family-animal-simulator-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/962.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-parkour-trials",
+    "thumbnail": "https://theQuizQuest.github.io/images/963.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "martian-builders-tycoon",
+    "thumbnail": "https://theQuizQuest.github.io/images/964.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "medieval-escape",
+    "thumbnail": "https://theQuizQuest.github.io/images/965.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "telekinesis-race-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/966.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "moto-robots-steel-trial",
+    "thumbnail": "https://theQuizQuest.github.io/images/967.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bitgoblins-rpg-simulator",
+    "thumbnail": "https://theQuizQuest.github.io/images/968.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "line-driver",
+    "thumbnail": "https://theQuizQuest.github.io/images/969.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "through-the-wall",
+    "thumbnail": "https://theQuizQuest.github.io/images/970.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "agent-hunt-spy-shooter-game",
+    "thumbnail": "https://theQuizQuest.github.io/images/971.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "stick-ninja-survival",
+    "thumbnail": "https://theQuizQuest.github.io/images/972.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "blitz-tanks",
+    "thumbnail": "https://theQuizQuest.github.io/images/973.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dog-merge-mania",
+    "thumbnail": "https://theQuizQuest.github.io/images/974.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "portal-of-doom-undead-rising",
+    "thumbnail": "https://theQuizQuest.github.io/images/975.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "skyscraper-to-the-sky",
+    "thumbnail": "https://theQuizQuest.github.io/images/976.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "solitaire-deluxe-edition",
+    "thumbnail": "https://theQuizQuest.github.io/images/977.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "dop-draw-one-part",
+    "thumbnail": "https://theQuizQuest.github.io/images/978.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "happy-fluffy-cubes",
+    "thumbnail": "https://theQuizQuest.github.io/images/979.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "my-farm-empire",
+    "thumbnail": "https://theQuizQuest.github.io/images/980.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "farm-clash-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/981.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-perfect-farm",
+    "thumbnail": "https://theQuizQuest.github.io/images/982.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "beam",
+    "thumbnail": "https://theQuizQuest.github.io/images/983.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "project-restoration-axt",
+    "thumbnail": "https://theQuizQuest.github.io/images/984.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "nuts-bolts-screw-glass-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/985.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "billiards-pool-8",
+    "thumbnail": "https://theQuizQuest.github.io/images/986.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "city-builder",
+    "thumbnail": "https://theQuizQuest.github.io/images/987.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "candy-color-sort-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/988.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-and-fight",
+    "thumbnail": "https://theQuizQuest.github.io/images/989.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-white-room-3",
+    "thumbnail": "https://theQuizQuest.github.io/images/990.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bladeblast-io",
+    "thumbnail": "https://theQuizQuest.github.io/images/991.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dragon-year-jigsaw",
+    "thumbnail": "https://theQuizQuest.github.io/images/992.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "flow-2048-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/993.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "royal-jigsaw",
+    "thumbnail": "https://theQuizQuest.github.io/images/994.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "skyhill-escape-from-the-skyscraper",
+    "thumbnail": "https://theQuizQuest.github.io/images/995.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "hippo-supermarket",
+    "thumbnail": "https://theQuizQuest.github.io/images/996.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "sort-parking",
+    "thumbnail": "https://theQuizQuest.github.io/images/997.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "strategy-of-war-tanks-and-helicopters",
+    "thumbnail": "https://theQuizQuest.github.io/images/998.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "jump-and-hover",
+    "thumbnail": "https://theQuizQuest.github.io/images/999.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fairyland-merge-and-magic",
+    "thumbnail": "https://theQuizQuest.github.io/images/1000.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "okay",
+    "thumbnail": "https://theQuizQuest.github.io/images/1001.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "screw-out-bolts-and-nuts",
+    "thumbnail": "https://theQuizQuest.github.io/images/1002.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "duck-hunting-open-season",
+    "thumbnail": "https://theQuizQuest.github.io/images/1003.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "2248-block-merge",
+    "thumbnail": "https://theQuizQuest.github.io/images/1004.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "type-sprint",
+    "thumbnail": "https://theQuizQuest.github.io/images/1005.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "brick-blaze",
+    "thumbnail": "https://theQuizQuest.github.io/images/1006.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "grow-a-garden-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/1007.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "flick-shot-soccer",
+    "thumbnail": "https://theQuizQuest.github.io/images/1008.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "special-ops-go",
+    "thumbnail": "https://theQuizQuest.github.io/images/1009.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-saga",
+    "thumbnail": "https://theQuizQuest.github.io/images/1010.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "evohero---idle-gladiators",
+    "thumbnail": "https://theQuizQuest.github.io/images/1011.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "alphabet-lore-maze",
+    "thumbnail": "https://theQuizQuest.github.io/images/1012.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "zombie-drift-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/1013.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "pool-8",
+    "thumbnail": "https://theQuizQuest.github.io/images/1014.webp",
+    "genre": "Puzzle, Sports"
+  },
+  {
+    "id": "punchers",
+    "thumbnail": "https://theQuizQuest.github.io/images/1015.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lunar-knight",
+    "thumbnail": "https://theQuizQuest.github.io/images/1016.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "larry-world-xrl",
+    "thumbnail": "https://theQuizQuest.github.io/images/1017.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "missile-launch-master",
+    "thumbnail": "https://theQuizQuest.github.io/images/1018.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "blocky-demolition-derby",
+    "thumbnail": "https://theQuizQuest.github.io/images/1019.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-derby-2-kya",
+    "thumbnail": "https://theQuizQuest.github.io/images/1020.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "farm-of-words",
+    "thumbnail": "https://theQuizQuest.github.io/images/1021.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "paint-master",
+    "thumbnail": "https://theQuizQuest.github.io/images/1022.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cube-stories-escape",
+    "thumbnail": "https://theQuizQuest.github.io/images/1023.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "nine-cards-of-winter",
+    "thumbnail": "https://theQuizQuest.github.io/images/1024.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "daycare-tycoon",
+    "thumbnail": "https://theQuizQuest.github.io/images/1025.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fiveheads-soccer",
+    "thumbnail": "https://theQuizQuest.github.io/images/1026.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hypermarket-3d-store-cashier",
+    "thumbnail": "https://theQuizQuest.github.io/images/1027.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "pendulum-master",
+    "thumbnail": "https://theQuizQuest.github.io/images/1028.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-cloner-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/1029.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "color-cannon-idle",
+    "thumbnail": "https://theQuizQuest.github.io/images/1030.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "murderer",
+    "thumbnail": "https://theQuizQuest.github.io/images/1031.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tile-guru",
+    "thumbnail": "https://theQuizQuest.github.io/images/1032.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "weapon-toss",
+    "thumbnail": "https://theQuizQuest.github.io/images/1033.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "diner-dash",
+    "thumbnail": "https://theQuizQuest.github.io/images/1034.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cyberpunk-city-fashion",
+    "thumbnail": "https://theQuizQuest.github.io/images/1035.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "on-fire-basketball-shots",
+    "thumbnail": "https://theQuizQuest.github.io/images/1036.webp",
+    "genre": "Puzzle, Basketball"
+  },
+  {
+    "id": "scavenger-hunt---hidden-items",
+    "thumbnail": "https://theQuizQuest.github.io/images/1037.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "classic-labyrinth-3d-maze",
+    "thumbnail": "https://theQuizQuest.github.io/images/1038.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "idle-miner",
+    "thumbnail": "https://theQuizQuest.github.io/images/1039.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "elemental-monsters-merge-evolution",
+    "thumbnail": "https://theQuizQuest.github.io/images/1040.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "drunk-but-not-wasted-knight",
+    "thumbnail": "https://theQuizQuest.github.io/images/1041.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ninja-swipe-strike",
+    "thumbnail": "https://theQuizQuest.github.io/images/1042.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "circle-shooter-master",
+    "thumbnail": "https://theQuizQuest.github.io/images/1043.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "spring-tiles-matching",
+    "thumbnail": "https://theQuizQuest.github.io/images/1044.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "haunted-school-2---horror-game",
+    "thumbnail": "https://theQuizQuest.github.io/images/1045.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brainrot-evolution-2048-merge-fight",
+    "thumbnail": "https://theQuizQuest.github.io/images/1046.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-balls-shooter-2048-connect-fruits",
+    "thumbnail": "https://theQuizQuest.github.io/images/1047.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mahjong-zen-garden",
+    "thumbnail": "https://theQuizQuest.github.io/images/1048.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "chibi-doll-coloring-dress-up",
+    "thumbnail": "https://theQuizQuest.github.io/images/1049.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "snake-2048io",
+    "thumbnail": "https://theQuizQuest.github.io/images/1050.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "number-masters",
+    "thumbnail": "https://theQuizQuest.github.io/images/1051.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mineclicker-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/1052.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "archers-battle",
+    "thumbnail": "https://theQuizQuest.github.io/images/1053.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sniper",
+    "thumbnail": "https://theQuizQuest.github.io/images/1054.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "destiny-king-vtg",
+    "thumbnail": "https://theQuizQuest.github.io/images/1055.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "push-it-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/1056.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cat-pancake-diner",
+    "thumbnail": "https://theQuizQuest.github.io/images/1057.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "dungeon-master-knight",
+    "thumbnail": "https://theQuizQuest.github.io/images/1058.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "derby-crash-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/1059.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "funny-fever-hospital",
+    "thumbnail": "https://theQuizQuest.github.io/images/1060.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "wool-mania---sort-puzzle-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/1061.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "garten-of-banban-1-escape",
+    "thumbnail": "https://theQuizQuest.github.io/images/1062.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "smile-slime",
+    "thumbnail": "https://theQuizQuest.github.io/images/1063.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "driving-school-simulator",
+    "thumbnail": "https://theQuizQuest.github.io/images/1064.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ants-empire-evolve-sim",
+    "thumbnail": "https://theQuizQuest.github.io/images/1065.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "bills-must-be-paid",
+    "thumbnail": "https://theQuizQuest.github.io/images/1066.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "perfect-asmr-cleaning",
+    "thumbnail": "https://theQuizQuest.github.io/images/1067.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "homo-evolution",
+    "thumbnail": "https://theQuizQuest.github.io/images/1068.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "forward-assault",
+    "thumbnail": "https://theQuizQuest.github.io/images/1069.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mining-for-the-village",
+    "thumbnail": "https://theQuizQuest.github.io/images/1070.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cloudy-with-a-chance-of-kittens",
+    "thumbnail": "https://theQuizQuest.github.io/images/1071.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mountain-operation",
+    "thumbnail": "https://theQuizQuest.github.io/images/1072.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "last-to-leave-circle-obby",
+    "thumbnail": "https://theQuizQuest.github.io/images/1073.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "zombie-car-racing",
+    "thumbnail": "https://theQuizQuest.github.io/images/1074.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-dragons-vs-knights",
+    "thumbnail": "https://theQuizQuest.github.io/images/1075.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mojicon-fruit-connect",
+    "thumbnail": "https://theQuizQuest.github.io/images/1076.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "maze-discover",
+    "thumbnail": "https://theQuizQuest.github.io/images/1077.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "teleport-jumper",
+    "thumbnail": "https://theQuizQuest.github.io/images/1078.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "unfold-escape-room-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/1079.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cozy-garden-idle",
+    "thumbnail": "https://theQuizQuest.github.io/images/1080.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tabletop-idle",
+    "thumbnail": "https://theQuizQuest.github.io/images/1081.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-swarm",
+    "thumbnail": "https://theQuizQuest.github.io/images/1082.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dominators-fighting-dinosaurs-fyf",
+    "thumbnail": "https://theQuizQuest.github.io/images/1083.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cat-escape",
+    "thumbnail": "https://theQuizQuest.github.io/images/1084.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "dop-puzzle-displace-one-part",
+    "thumbnail": "https://theQuizQuest.github.io/images/1085.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "word-search-universe-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/1086.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "three-chickens",
+    "thumbnail": "https://theQuizQuest.github.io/images/1087.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "fashionista-christmas-eve-party",
+    "thumbnail": "https://theQuizQuest.github.io/images/1088.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "only-up-parkour-adl",
+    "thumbnail": "https://theQuizQuest.github.io/images/1089.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ludo-party",
+    "thumbnail": "https://theQuizQuest.github.io/images/1090.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "farm-triple-match",
+    "thumbnail": "https://theQuizQuest.github.io/images/1091.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "magic-sorting",
+    "thumbnail": "https://theQuizQuest.github.io/images/1092.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "brother-wake-up",
+    "thumbnail": "https://theQuizQuest.github.io/images/1093.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zumba-quest",
+    "thumbnail": "https://theQuizQuest.github.io/images/1094.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kill-the-ice-age-baby-adventure",
+    "thumbnail": "https://theQuizQuest.github.io/images/1095.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "break-the-block-there-brainrot",
+    "thumbnail": "https://theQuizQuest.github.io/images/1096.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "ultimate-flying-car-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/1097.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "connect-puzzle-image",
+    "thumbnail": "https://theQuizQuest.github.io/images/1098.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "icolorcoin-sort-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/1099.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slicer-duo",
+    "thumbnail": "https://theQuizQuest.github.io/images/1100.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "maze-escape-challenge",
+    "thumbnail": "https://theQuizQuest.github.io/images/1101.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "foam-and-find",
+    "thumbnail": "https://theQuizQuest.github.io/images/1102.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dreamy-jewel",
+    "thumbnail": "https://theQuizQuest.github.io/images/1103.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "pull-the-thread-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/1104.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "universe-maker-cui",
+    "thumbnail": "https://theQuizQuest.github.io/images/1105.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chill-girl-clicker",
+    "thumbnail": "https://theQuizQuest.github.io/images/1106.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "parking-fury-3d-side-hustle",
+    "thumbnail": "https://theQuizQuest.github.io/images/1107.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-impossible-game",
+    "thumbnail": "https://theQuizQuest.github.io/images/1108.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "emerland-solitaire",
+    "thumbnail": "https://theQuizQuest.github.io/images/1109.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "tile-pair-match",
+    "thumbnail": "https://theQuizQuest.github.io/images/1110.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mazoo",
+    "thumbnail": "https://theQuizQuest.github.io/images/1111.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "screw-jam",
+    "thumbnail": "https://theQuizQuest.github.io/images/1112.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "boomcraft",
+    "thumbnail": "https://theQuizQuest.github.io/images/1113.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "find-the-pieces",
+    "thumbnail": "https://theQuizQuest.github.io/images/1114.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-puzzle-travel",
+    "thumbnail": "https://theQuizQuest.github.io/images/1115.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "city-car-driving-simulator-3",
+    "thumbnail": "https://theQuizQuest.github.io/images/1116.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bottle-logic",
+    "thumbnail": "https://theQuizQuest.github.io/images/1117.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "home-block-story",
+    "thumbnail": "https://theQuizQuest.github.io/images/1118.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "daycare-tycoon",
+    "thumbnail": "https://theQuizQuest.github.io/images/1119.webp",
+    "genre": "Educational, Simulation"
+  },
+  {
+    "id": "just-hit-the-button",
+    "thumbnail": "https://theQuizQuest.github.io/images/1120.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gt-cars-mega-ramps",
+    "thumbnail": "https://theQuizQuest.github.io/images/1121.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "shadow-ninja-revenge",
+    "thumbnail": "https://theQuizQuest.github.io/images/1122.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "detective-iq-3",
+    "thumbnail": "https://theQuizQuest.github.io/images/1123.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gate-heroes-battle",
+    "thumbnail": "https://theQuizQuest.github.io/images/1124.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "find-cat",
+    "thumbnail": "https://theQuizQuest.github.io/images/1125.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "red-escape-grc",
+    "thumbnail": "https://theQuizQuest.github.io/images/1126.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hextoland",
+    "thumbnail": "https://theQuizQuest.github.io/images/1127.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mine-to-the-last",
+    "thumbnail": "https://theQuizQuest.github.io/images/1128.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "drop-bricks-breaker",
+    "thumbnail": "https://theQuizQuest.github.io/images/1129.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bubble-sorting",
+    "thumbnail": "https://theQuizQuest.github.io/images/1130.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-archer-shooting-arrows-at-reds",
+    "thumbnail": "https://theQuizQuest.github.io/images/1131.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "geometry-dash-open-world",
+    "thumbnail": "https://theQuizQuest.github.io/images/1132.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pickaxe-crusher-idle",
+    "thumbnail": "https://theQuizQuest.github.io/images/1133.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-dinosaur-arena",
+    "thumbnail": "https://theQuizQuest.github.io/images/1134.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "space-heroes-epic-galaxy-rpg",
+    "thumbnail": "https://theQuizQuest.github.io/images/1135.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cool-orange-ball-bounce-adventure",
+    "thumbnail": "https://theQuizQuest.github.io/images/1136.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "shape-shooter-3",
+    "thumbnail": "https://theQuizQuest.github.io/images/1137.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "burnin-rubber-multiplayer",
+    "thumbnail": "https://theQuizQuest.github.io/images/1138.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "heroic-archer",
+    "thumbnail": "https://theQuizQuest.github.io/images/1139.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hero-ragdoll-fighting",
+    "thumbnail": "https://theQuizQuest.github.io/images/1140.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-cubes-2048-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/1141.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "ragdoll-show-throw-break-and-destroy",
+    "thumbnail": "https://theQuizQuest.github.io/images/1142.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fierce-battle-breakout",
+    "thumbnail": "https://theQuizQuest.github.io/images/1143.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "merge-food-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/1144.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "mr-throw",
+    "thumbnail": "https://theQuizQuest.github.io/images/1145.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "lava-ladder-leap",
+    "thumbnail": "https://theQuizQuest.github.io/images/1146.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "relax-mini-games-collection",
+    "thumbnail": "https://theQuizQuest.github.io/images/1147.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "luxury-inc",
+    "thumbnail": "https://theQuizQuest.github.io/images/1148.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-trouble",
+    "thumbnail": "https://theQuizQuest.github.io/images/1149.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tile-dreams---relaxing-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/1150.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "goo-odyssey",
+    "thumbnail": "https://theQuizQuest.github.io/images/1151.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "forest-tile-match",
+    "thumbnail": "https://theQuizQuest.github.io/images/1152.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "plangman",
+    "thumbnail": "https://theQuizQuest.github.io/images/1153.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "surf-go-parkour",
+    "thumbnail": "https://theQuizQuest.github.io/images/1154.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hero-3-flying-robot",
+    "thumbnail": "https://theQuizQuest.github.io/images/1155.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-ball-fall-lon",
+    "thumbnail": "https://theQuizQuest.github.io/images/1156.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-team-detroit",
+    "thumbnail": "https://theQuizQuest.github.io/images/1157.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "chicken-wars-merge-guns",
+    "thumbnail": "https://theQuizQuest.github.io/images/1158.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "plane-crash-ragdoll-simulator",
+    "thumbnail": "https://theQuizQuest.github.io/images/1159.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "swop-shoot",
+    "thumbnail": "https://theQuizQuest.github.io/images/1160.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "noob-fun-fishing",
+    "thumbnail": "https://theQuizQuest.github.io/images/1161.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "dead-zed",
+    "thumbnail": "https://theQuizQuest.github.io/images/1162.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "juicy-match-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/1163.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "human-leap-evolution",
+    "thumbnail": "https://theQuizQuest.github.io/images/1164.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "crazy-parkour",
+    "thumbnail": "https://theQuizQuest.github.io/images/1165.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "clash-of-skulls",
+    "thumbnail": "https://theQuizQuest.github.io/images/1166.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "computer-office-escape",
+    "thumbnail": "https://theQuizQuest.github.io/images/1167.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "drift-parking",
+    "thumbnail": "https://theQuizQuest.github.io/images/1168.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "love-archer",
+    "thumbnail": "https://theQuizQuest.github.io/images/1169.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bingo-halloween",
+    "thumbnail": "https://theQuizQuest.github.io/images/1170.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "whopper-clicker",
+    "thumbnail": "https://theQuizQuest.github.io/images/1171.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "clashed-metal-drifting-wars",
+    "thumbnail": "https://theQuizQuest.github.io/images/1172.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "army-warfare",
+    "thumbnail": "https://theQuizQuest.github.io/images/1173.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "protect-my-dog-3",
+    "thumbnail": "https://theQuizQuest.github.io/images/1174.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mini-flips",
+    "thumbnail": "https://theQuizQuest.github.io/images/1175.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "limited-kaboom",
+    "thumbnail": "https://theQuizQuest.github.io/images/1176.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "halloween-stickman-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/1177.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ball-sort",
+    "thumbnail": "https://theQuizQuest.github.io/images/1178.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "unicycle-balance-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/1179.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "connect-image",
+    "thumbnail": "https://theQuizQuest.github.io/images/1180.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "caterfall-2048",
+    "thumbnail": "https://theQuizQuest.github.io/images/1181.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "bolts-unscrew-it",
+    "thumbnail": "https://theQuizQuest.github.io/images/1182.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "rally-point-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/1183.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pumpking-vs-mummy",
+    "thumbnail": "https://theQuizQuest.github.io/images/1184.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "the-farmer",
+    "thumbnail": "https://theQuizQuest.github.io/images/1185.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "russian-derby-crash",
+    "thumbnail": "https://theQuizQuest.github.io/images/1186.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cute-cats-match-dwy",
+    "thumbnail": "https://theQuizQuest.github.io/images/1187.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chakram-master",
+    "thumbnail": "https://theQuizQuest.github.io/images/1188.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "think-to-escape-3",
+    "thumbnail": "https://theQuizQuest.github.io/images/1189.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bell-madness",
+    "thumbnail": "https://theQuizQuest.github.io/images/1190.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "billiards-3d-russian-pyramid",
+    "thumbnail": "https://theQuizQuest.github.io/images/1191.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "trading-card-store-simulator",
+    "thumbnail": "https://theQuizQuest.github.io/images/1192.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "goon-ball",
+    "thumbnail": "https://theQuizQuest.github.io/images/1193.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "cell-to-singularity-mesozoic-valley",
+    "thumbnail": "https://theQuizQuest.github.io/images/1194.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kingmaker-academy-warrior-s-duels",
+    "thumbnail": "https://theQuizQuest.github.io/images/1195.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "over-the-rainbow",
+    "thumbnail": "https://theQuizQuest.github.io/images/1196.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "magic-water-sort-color-puzzle",
+    "thumbnail": "https://theQuizQuest.github.io/images/1197.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "brainrot-click-to-hatch",
+    "thumbnail": "https://theQuizQuest.github.io/images/1198.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "agents-io",
+    "thumbnail": "https://theQuizQuest.github.io/images/1199.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "stop-the-bullet",
+    "thumbnail": "https://theQuizQuest.github.io/images/1200.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "volley-beans-volleyball-game",
+    "thumbnail": "https://theQuizQuest.github.io/images/1201.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "sand-blocks",
+    "thumbnail": "https://theQuizQuest.github.io/images/1202.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "battle-arena-race-to-win",
+    "thumbnail": "https://theQuizQuest.github.io/images/1203.webp",
+    "genre": "Racing & Driving, Battle"
+  },
+  {
+    "id": "coe-rabbit",
+    "thumbnail": "https://theQuizQuest.github.io/images/1204.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "blocky-trials",
+    "thumbnail": "https://theQuizQuest.github.io/images/1205.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "island-builder",
+    "thumbnail": "https://theQuizQuest.github.io/images/1206.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brainrot-tower-defence",
+    "thumbnail": "https://theQuizQuest.github.io/images/1207.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "solitairetripeaks-island-expeditio",
+    "thumbnail": "https://theQuizQuest.github.io/images/1208.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "popcorn-stack",
+    "thumbnail": "https://theQuizQuest.github.io/images/1209.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pixel-wars-of-hero",
+    "thumbnail": "https://theQuizQuest.github.io/images/1210.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tap-3d-blocks",
+    "thumbnail": "https://theQuizQuest.github.io/images/1211.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "break-it---brick-breaker",
+    "thumbnail": "https://theQuizQuest.github.io/images/1212.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "waterworks",
+    "thumbnail": "https://theQuizQuest.github.io/images/1213.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fashion-factory",
+    "thumbnail": "https://theQuizQuest.github.io/images/1214.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2048-merge-blocks-vno",
+    "thumbnail": "https://theQuizQuest.github.io/images/1215.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spooky-tripeaks",
+    "thumbnail": "https://theQuizQuest.github.io/images/1216.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "poly-art-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/1217.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mega-ramps-ultimate-car-races",
+    "thumbnail": "https://theQuizQuest.github.io/images/1218.webp",
+    "genre": "Racing & Driving, .IO"
+  },
+  {
+    "id": "power-light",
+    "thumbnail": "https://theQuizQuest.github.io/images/1219.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "suv-traffic-racer",
+    "thumbnail": "https://theQuizQuest.github.io/images/1220.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "fantasy-math-number",
+    "thumbnail": "https://theQuizQuest.github.io/images/1221.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "obby-pinata-party",
+    "thumbnail": "https://theQuizQuest.github.io/images/1222.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "graffiti-tags-spray-painting",
+    "thumbnail": "https://theQuizQuest.github.io/images/1223.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "farmer-pedro",
+    "thumbnail": "https://theQuizQuest.github.io/images/1224.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "detective-iq-brain-games-ekr",
+    "thumbnail": "https://theQuizQuest.github.io/images/1225.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stick-master-teleport",
+    "thumbnail": "https://theQuizQuest.github.io/images/1226.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "big-shark",
+    "thumbnail": "https://theQuizQuest.github.io/images/1227.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-thief-auto",
+    "thumbnail": "https://theQuizQuest.github.io/images/1228.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "doomsday-zombie-td",
+    "thumbnail": "https://theQuizQuest.github.io/images/1229.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sky-car-drift",
+    "thumbnail": "https://theQuizQuest.github.io/images/1230.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "aidan-in-danger",
+    "thumbnail": "https://theQuizQuest.github.io/images/1231.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "stylish-nail-art",
+    "thumbnail": "https://theQuizQuest.github.io/images/1232.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "zombie-frontier-shooter",
+    "thumbnail": "https://theQuizQuest.github.io/images/1233.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "driver-master-simulator",
+    "thumbnail": "https://theQuizQuest.github.io/images/1234.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "draw-bridge-brain-game",
+    "thumbnail": "https://theQuizQuest.github.io/images/1235.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bucket-crusher",
+    "thumbnail": "https://theQuizQuest.github.io/images/1236.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dead-zone-mech-ops",
+    "thumbnail": "https://theQuizQuest.github.io/images/1237.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "age-of-steam-tower-defence",
+    "thumbnail": "https://theQuizQuest.github.io/images/1238.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cosmic-aviator",
+    "thumbnail": "https://theQuizQuest.github.io/images/1239.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "easter-shadow-match",
+    "thumbnail": "https://theQuizQuest.github.io/images/1240.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "crossword",
+    "thumbnail": "https://theQuizQuest.github.io/images/1241.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "valentines-day-couple-date",
+    "thumbnail": "https://theQuizQuest.github.io/images/1242.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "animal-basketball",
+    "thumbnail": "https://theQuizQuest.github.io/images/1243.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "room-escape-strange-case",
+    "thumbnail": "https://theQuizQuest.github.io/images/1244.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "save-the-piggies",
+    "thumbnail": "https://theQuizQuest.github.io/images/1245.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "escape-from-tung-tung-sahur",
+    "thumbnail": "https://theQuizQuest.github.io/images/1246.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "racer-clicker",
+    "thumbnail": "https://theQuizQuest.github.io/images/1247.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spelunking",
+    "thumbnail": "https://theQuizQuest.github.io/images/1248.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "tiles-matching",
+    "thumbnail": "https://theQuizQuest.github.io/images/1249.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "gelatino",
+    "thumbnail": "https://theQuizQuest.github.io/images/1250.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "3dash",
+    "thumbnail": "https://theQuizQuest.github.io/images/1251.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "rcc-city-racing",
+    "thumbnail": "https://theQuizQuest.github.io/images/1252.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kaboom-miner",
+    "thumbnail": "https://theQuizQuest.github.io/images/1253.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "tower-crush",
+    "thumbnail": "https://theQuizQuest.github.io/images/1254.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zoo-restaurant",
+    "thumbnail": "https://theQuizQuest.github.io/images/1255.webp",
+    "genre": "Cooking, Merge"
+  },
+  {
+    "id": "easter-eggventure",
+    "thumbnail": "https://theQuizQuest.github.io/images/1256.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "virtual-family-summer-vacation",
+    "thumbnail": "https://theQuizQuest.github.io/images/1257.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "red-stickman-vs-monster-school",
+    "thumbnail": "https://theQuizQuest.github.io/images/1258.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "klondike-solitaire",
+    "thumbnail": "https://theQuizQuest.github.io/images/1259.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "link-color-pictures",
+    "thumbnail": "https://theQuizQuest.github.io/images/1260.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "save-the-cats-bubble-shooter",
+    "thumbnail": "https://theQuizQuest.github.io/images/1261.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "wedding-coloring-dress-up-game",
+    "thumbnail": "https://theQuizQuest.github.io/images/1262.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sprunki-puzzles-and-singing",
+    "thumbnail": "https://theQuizQuest.github.io/images/1263.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "gulag",
+    "thumbnail": "https://theQuizQuest.github.io/images/1264.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "monster-school-challenge",
+    "thumbnail": "https://theQuizQuest.github.io/images/1265.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "street-food-simulator",
+    "thumbnail": "https://theQuizQuest.github.io/images/1266.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "juice-merge",
+    "thumbnail": "https://theQuizQuest.github.io/images/1267.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "emoji-smasher-smiley-game",
+    "thumbnail": "https://theQuizQuest.github.io/images/1268.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sushi-factory",
+    "thumbnail": "https://theQuizQuest.github.io/images/1269.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "home-run-boy",
+    "thumbnail": "https://theQuizQuest.github.io/images/1270.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merry-christmas-connect",
+    "thumbnail": "https://theQuizQuest.github.io/images/1271.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "stickman-zombie-vs-stickman-hero",
+    "thumbnail": "https://theQuizQuest.github.io/images/1272.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "stickman-prison-and-love",
+    "thumbnail": "https://theQuizQuest.github.io/images/1273.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "foono-online-multiplayer-card-game",
+    "thumbnail": "https://theQuizQuest.github.io/images/1274.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tiny-cars",
+    "thumbnail": "https://theQuizQuest.github.io/images/1275.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hard-rock-zombie-truck",
+    "thumbnail": "https://theQuizQuest.github.io/images/1276.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "ragdoll-break",
+    "thumbnail": "https://theQuizQuest.github.io/images/1277.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shape-shooter-2",
+    "thumbnail": "https://theQuizQuest.github.io/images/1278.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "farmer-challenge-party",
+    "thumbnail": "https://theQuizQuest.github.io/images/1279.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "burger-here",
+    "thumbnail": "https://theQuizQuest.github.io/images/1280.webp",
+    "genre": "Cooking, Casual"
+  },
+  {
+    "id": "laqueus-escape-chapter-iii",
+    "thumbnail": "https://theQuizQuest.github.io/images/1281.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "battle-zone-2d",
+    "thumbnail": "https://theQuizQuest.github.io/images/1282.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "merge-the-coins-ussr",
+    "thumbnail": "https://theQuizQuest.github.io/images/1283.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dominate-all-shapes",
+    "thumbnail": "https://theQuizQuest.github.io/images/1284.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "offroad-life-3d",
+    "thumbnail": "https://theQuizQuest.github.io/images/1285.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dungeon-crawl-theater",
+    "thumbnail": "https://theQuizQuest.github.io/images/1286.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "international-super-animal-soccer",
+    "thumbnail": "https://theQuizQuest.github.io/images/1287.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "solitaire-the-great-journey",
+    "thumbnail": "https://theQuizQuest.github.io/images/1288.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tank-stars-battle-arena",
+    "thumbnail": "https://theQuizQuest.github.io/images/1289.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "hide-seek-go-and-find",
+    "thumbnail": "https://theQuizQuest.github.io/images/1290.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "pushio",
+    "thumbnail": "https://theQuizQuest.github.io/images/1291.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "pixel-warfare",
+    "thumbnail": "https://theQuizQuest.github.io/images/1292.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fruit-jam-master",
+    "thumbnail": "https://theQuizQuest.github.io/images/1293.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "monster-girls-back-to-school",
+    "thumbnail": "https://theQuizQuest.github.io/images/1294.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "stickman-rocket",
+    "thumbnail": "https://theQuizQuest.github.io/images/1295.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "italian-brainrot-baby-clicker",
+    "thumbnail": "https://theQuizQuest.github.io/images/1296.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "thats-my-seat",
+    "thumbnail": "https://theQuizQuest.github.io/images/1297.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "melon-drop-fruit-merge-master",
+    "thumbnail": "https://theQuizQuest.github.io/images/1298.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "god-for-a-day-prequel",
+    "thumbnail": "https://theQuizQuest.github.io/images/1299.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  }
+]
